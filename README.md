@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I am yiranzai.
+I am yiranzai. 👋
+
+- I use PHP and Golang.
+- Graduated from NYIST.
+- Like 🏀 🎧 🎬 💻.
 
 ### My Github Starred List
 
